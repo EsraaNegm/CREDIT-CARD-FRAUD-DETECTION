@@ -1,4 +1,4 @@
-# CREDIT-CARD-FRAUD-DETECTION
+
 I explored the dataset, which includes anonymized credit card
 transactions, and perform data preprocessing, feature engineering, and
 exploratory data analysis. Using various machine learning algorithms like
